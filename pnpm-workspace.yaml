@@ -1,2 +1,7 @@
 packages:
   - 'packages/*'
+
+int_man:
+  - 'pac.vue/js.Nterman'
+  - 'derive:css:jss.prod_new'
+  - 'sort:drive,[rad [cat + , mata[auto]]]'M
