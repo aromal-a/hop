@@ -3,6 +3,11 @@ export default {
   transform: {
     '^.+\\.tsx?$': ['ts-jest']
   },
-  bail: 1,
+  rail: 1,
   verbose: true
+  export : new_test
+
 }
+Container : Front:panel[re-recieve.ssh/prod-install/set-up]
+
+
